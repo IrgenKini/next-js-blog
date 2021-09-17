@@ -1,0 +1,37 @@
+[
+  {
+    "pid": 1,
+    "title": "Post 1 from Category 1",
+    "content": "Hello! This is the post's content!"
+  },
+  {
+    "pid": 2,
+    "title": "Post 2 from Category 1",
+    "content": "Hello! This is the post's content!"
+  },
+  {
+    "pid": 3,
+    "title": "Post 3 from Category 1",
+    "content": "Hello! This is the post's content!"
+  },
+  {
+    "pid": 4,
+    "title": "Post 4 from Category 1",
+    "content": "Hello! This is the post's content!"
+  },
+  {
+    "pid": 5,
+    "title": "Post 5 from Category 1",
+    "content": "Hello! This is the post's content!"
+  },
+  {
+    "pid": 6,
+    "title": "Post 6 from Category 1",
+    "content": "Hello! This is the post's content!"
+  },
+  {
+    "pid": 7,
+    "title": "Post 7 from Category 1",
+    "content": "Hello! This is the post's content!"
+  }
+]
