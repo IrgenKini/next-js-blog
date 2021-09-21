@@ -1,6 +1,8 @@
 import type { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import Head from "next/head";
 import Link from "next/link";
+import { ReactElement } from "react";
+import Layout from "../../components/Layout";
 
 import { Category } from "../api/categories";
 import { Product } from "../api/products";
@@ -10,7 +12,7 @@ interface CategoryProps {
   products: Product[];
 }
 
-const CategoryPage: NextPage<CategoryProps> = ({ category, products }) => {
+const CategoryPage = ({ category, products }) => {
   return (
     <div>
       <Head>
@@ -81,6 +83,15 @@ export const getStaticProps: GetStaticProps<CategoryProps> = async (
       notFound: true,
     };
   }
+};
+
+CategoryPage.getLayout = function getLayout(page: ReactElement) {
+  return (
+    <Layout title="Welcome to category page">
+      {/* other things can be added here as necessary */}
+      {page}
+    </Layout>
+  );
 };
 
 export default CategoryPage;
