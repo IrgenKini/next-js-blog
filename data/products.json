@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Keen Coffee - Kolumbia Hernan Prieto - filtr - kawa ziarnista - 250g",
+    "slug": "keen-coffee-kolumbia-hernan-pietro-filtr-kawa-ziarnista-250g",
+    "category": "category1"
+  },
+  {
+    "name": "Fjord - Salvador Coe - filtr - kawa ziarnista - 250g",
+    "slug": "fjord-salvador-coe-filtr-kawa-ziarnista-250g",
+    "category": "category2"
+  },
+  {
+    "name": "Johan & Nyström - Fika - kawa mielona 500g",
+    "slug": "johan-nystrom-fika-kawa-mielona-500g",
+    "category": "category2"
+  },
+  {
+    "name": "Herbata Czarna Assam TGFOP INDIA 100g",
+    "slug": "herbata-czarna-assam-tgfop-india-100g",
+    "category": "category3"
+  },
+  {
+    "name": "Herbata Czerwona Pu-erh Grapefruit 100g",
+    "slug": "herbata-czerwona-pu-erh-grapefruit-100g",
+    "category": "category4"
+  }
+]

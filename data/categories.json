@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Category 1 ",
+    "description": "This is the first category",
+    "slug": "category1"
+  },
+  {
+    "name": "Category 2",
+    "description": "This is the second category",
+    "slug": "category2"
+  },
+  {
+    "name": "Category 3",
+    "description": "This is the third category",
+    "slug": "category3"
+  },
+  {
+    "name": "Category 4",
+    "description": "This is the fourth category",
+    "slug": "category4"
+  },
+  {
+    "name": "Category 5",
+    "description": "This is the fifth category",
+    "slug": "category5"
+  }
+]
